@@ -9,3 +9,6 @@ data = {
 
 # Crear DataFrame
 df_ventas = pd.DataFrame(data)
+
+# Mostrar DataFrame
+print(df_ventas)
